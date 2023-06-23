@@ -23,7 +23,7 @@ Clone this project and start:
   npm install
   npm run dev
 ```
-https://estudy-next-js.vercel.app/
+https://car-hub-sage.vercel.app/
 
 
 ## ****📄 Feedback****
