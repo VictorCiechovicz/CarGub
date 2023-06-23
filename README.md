@@ -1,7 +1,9 @@
+![Developed Web by Victor Ciechovicz (1)](https://github.com/VictorCiechovicz/CarHub/assets/106246945/bf1fc9e3-013d-4f83-b362-086cae4da008)
 
-# ****💻 CarHub****
+# ****🚙 CarHub****
 
- This application is Car Catalogue page using Next.js 13. This application was created for the purpose of studies.
+
+ This application is Car Catalogue using Next.js 13. This application was created for the purpose of studies.
  
 ## ****✨ Stacks****
 
